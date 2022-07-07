@@ -1,0 +1,5 @@
+# To ignore google api credential
+cred.json
+
+# To ignore other credentials
+.env
